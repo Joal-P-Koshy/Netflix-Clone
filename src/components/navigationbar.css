@@ -1,0 +1,13 @@
+.nav_head{
+    width: 100%;
+    top: 0px;
+    position: fixed;
+    padding-left: 0.3rem;
+    padding-top: 1rem;
+    z-index: 100;
+    background: transparent;
+}
+
+.nav_img{
+    background: transparent;
+}
